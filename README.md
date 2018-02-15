@@ -1,2 +1,2 @@
 # learning
-input from home times 2
+input from home times 3
